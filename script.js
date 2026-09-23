@@ -124,11 +124,11 @@ const message = `
 
 Đêm đã khuya rồi... 🌙
 
-Hy vọng hôm nay Thảo đã có thật nhiều niềm vui.
+Hy vọng hôm nay em đã có thật nhiều niềm vui.
 
-Nếu hôm nay có điều gì khiến Thảo mệt mỏi thì hãy để tất cả ngủ yên theo màn đêm nhé.
+Nếu hôm nay có điều gì khiến em mệt mỏi thì hãy để tất cả ngủ yên theo màn đêm nhé.
 
-Chúc Thảo có một giấc ngủ thật sâu,
+Chúc em có một giấc ngủ thật sâu,
 những giấc mơ thật đẹp
 và thức dậy với một nụ cười thật rạng rỡ.
 
